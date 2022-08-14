@@ -8,6 +8,6 @@ package Examen;
  *
  * @author Dell G3
  */
-public class prueba {
+public class clases {
     
 }
